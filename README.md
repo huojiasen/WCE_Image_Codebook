@@ -1,3 +1,2 @@
-WCE_Image_Codebook
-wce is a kind of image from capsule camera.
-this project is used to get the codebook for wce images by kmeans
+WCE 是一种胶囊内窥镜图像，主要用于诊断肠道疾病
+该模块主要为了构建基于CBIR的图像码本，首先提取图像的颜色特征和纹理特征，利用一种改进的kmeans算法 FCM进行训练
